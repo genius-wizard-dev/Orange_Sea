@@ -1,0 +1,9 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/genius-wizard-dev/Orange_Sea_Backend
+[submodule "Frontend_Web"]
+	path = Frontend_Web
+	url = https://github.com/genius-wizard-dev/Orange_Sea_Web
+[submodule "Frontend_Mobile"]
+	path = Frontend_Mobile
+	url = https://github.com/genius-wizard-dev/Orange_Sea_Mobile_V2
